@@ -191,10 +191,6 @@ Open `heart_disease_prediction.ipynb` in Jupyter or Google Colab and run the cel
 
 > The original notebook was developed in Google Colab. Dataset paths should point to the repository's `data/` directory when running locally.
 
-## Author
-
-**Ishika Chaudhary**  
-M.Tech Artificial Intelligence & Data Science  
-Vellore Institute of Technology, Bhopal
+## Links
 
 GitHub: https://github.com/ishikach21
